@@ -2,7 +2,7 @@
     "name": "light-rider-vscode-theme",
     "displayName": "Light Rider",
     "description": "A color theme for Visual Studio Code. Light Rider!",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "publisher": "ckrueger",
     "icon": "icon.png",
