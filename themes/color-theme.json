@@ -838,6 +838,15 @@
             "settings": {
                 "foreground": "#ab2f6b"
             }
+        },
+        {
+            "name": "XML element attribute",
+            "scope": [
+                "entity.other.attribute-name.localname.xml"
+            ],
+            "settings": {
+                "foreground": "#248700"
+            }
         }
     ]
 }
